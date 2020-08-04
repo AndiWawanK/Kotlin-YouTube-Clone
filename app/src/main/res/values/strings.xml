@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">YouTube Clone</string>
+
+    <!--  Bottom Navigation Labels  -->
+    <string name="home">Home</string>
+    <string name="explore">Explore</string>
+    <string name="subscriptions">Subscription</string>
+    <string name="account">Account</string>
+</resources>
